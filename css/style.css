@@ -1,0 +1,25 @@
+
+  body{
+    background: blue;
+    text-align: center;
+    opacity: 2;
+}
+#title{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family:sans-serif
+}
+#description{
+    font-size: 16px;
+    color: white;
+}
+#Survey-form{
+    display: block;
+}
+label{
+    color: white;
+}
+input[type="name"],input[type="email"],input[type="number"]{
+    padding: 24px;
+}
